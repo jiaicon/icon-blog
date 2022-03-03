@@ -1,0 +1,1 @@
+(self.webpackChunkant_design_pro=self.webpackChunkant_design_pro||[]).push([[2541],{52541:function(o,t,n){"use strict";n.r(t),n.d(t,{LocaContext:function(){return u},useAMapValue:function(){return a}});var e=n(67294),u=(0,e.createContext)({});function a(){return(0,e.useContext)(u)}}}]);

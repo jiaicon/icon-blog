@@ -1,0 +1,1 @@
+(self.webpackChunkant_design_pro=self.webpackChunkant_design_pro||[]).push([[885],{30885:function(r,n,u){"use strict";u.r(n),u.d(n,{DEFAULT_COLOR:function(){return t},DEFAULT_OPTIONS:function(){return e}});var t=["#FAAD14","#E8EDF3"],e={percent:.2,color:t,animation:{}}}}]);
